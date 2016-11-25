@@ -39,21 +39,20 @@ article header {
   margin-bottom: 1.3rem;
 }
 
+article p {
+  padding-bottom: 1.3rem;
+  margin: 0;
+}
+
 article header p {
   font-style: italic;
   margin-top: 0;
   padding-bottom: 1.3rem;
 }
 
-article p {
-  padding-bottom: 1.3rem;
-  margin: 0;
-}
-
 article > p:first-child {
   padding-top: 1.3rem;
 }
-
 
 article ol {
   padding-left: 1rem;
